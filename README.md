@@ -19,9 +19,13 @@ https://creativecommons.org/licenses/by-nc-sa/3.0/
 ## Credits
 
 Production - Chris McPherson
+
 Programming - Ian Gore, Scott Griffy
+
 Composing/Sound Design - Nate Wehe
+
 Character Design - Merlin Benneth
+
 Graphic Design - Charlie Pugliese
 
 Special thanks to PIGSquad for hosting!
